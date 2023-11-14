@@ -1,9 +1,5 @@
 package main
 
-func main() {
-
-}
-
 func binarySearch(arr []int, target int) int {
 	low := 0
 	high := len(arr) - 1
